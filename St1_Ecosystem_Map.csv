@@ -1,0 +1,15 @@
+Category,Company,Activities,Actors,Positions,Links
+Core,St1,P2X power-to-methanol production,Main focal company,Central,Multiple connections to raw material providers and fuel distributors
+Core,Neste,Hydrogen production and distribution,Partner,Supplier,Provides hydrogen to St1
+Core,Fortum,Renewable energy projects,Energy supplier,Upstream supplier,Supplies renewable energy for electrolysis
+Core,ABB,Technology supplier for electrolysis,Technology provider,Technology,Provides electrolysis technology to St1
+Related,Helen Ltd.,Electricity supplier,Energy provider,Supplier,Supplies electricity to St1
+Related,Gasum,Biogas provider,Fuel supplier,Upstream supplier,Supplies biogas
+Related,UPM,Biofuel production,Partner,Supplier,Provides biofuel
+Related,VTT,Research partner,Research and development,Partner,Collaborates on research projects
+Additional,Oy Woikoski Ab,Industrial gas supplier,Supplier,Supplier,Provides CO2 and other gases
+Additional,Kemira,Chemical supplier,Chemical provider,Supplier,Supplies chemicals for P2X processes
+Additional,Pöyry (AFRY),Engineering and consulting,Service provider,Consultant,Provides engineering services
+Additional,Metso Outotec,Technology and equipment supplier,Equipment provider,Supplier,Supplies equipment for production processes
+Potential,Wärtsilä,Marine and energy solutions,Technology provider,Potential partner,Could provide technology for marine fuel applications
+Potential,TietoEVRY,Information technology,IT provider,Technology,Could support information exchange platforms
